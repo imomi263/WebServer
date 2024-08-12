@@ -67,6 +67,11 @@ INSERT INTO user(username, password) VALUES('name', 'password');
 ```
 
 ```bash
+sudo apt install ctags
+```
+
+
+```bash
 make
 ./bin/server
 ```

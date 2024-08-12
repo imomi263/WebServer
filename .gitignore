@@ -7,8 +7,10 @@
 !makefile
 !Makefile
 
+*.bat
 *.o
 *.1
 *.log
 *.exe
 /.vscode
+bin/
